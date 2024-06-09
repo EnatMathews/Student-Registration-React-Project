@@ -24,12 +24,12 @@ const NavbarStudent = () => {
                             <li class="nav-item">
                                 <Link class="nav-link active" aria-current="page" to="/View">View</Link>
                             </li>
-                           
-                            
+
+
                         </ul>
 
                     </div>
-</div>
+                </div>
             </nav>
         </div>
     )
